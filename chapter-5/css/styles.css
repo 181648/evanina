@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;
+padding:0;
+}
+.my-class{
+	color: purple;
+	border: 1px solid blue;
+	background-color: lightblue;
+	padding: 0.5;
+	text-align: center;
+	}
+.class-name{
+	color: pink;
+	background-color: #FFC;
+	text-align: center;
+	font-family: 'Sriracha', fat;
+	}
+.background-image{
+	background-image:url(../images/500_F_194386232_xOxTPhQabAtDLVSBS2oeK94ty2Rd9Lpx.jpg);
+}
+	
+	
+.banner{
+	text-align:center;
+	background-size: contain;
+	background-image:url(../images/cat-paw-clipart-32.jpg);
+	color: #00F;
+	font-family: 'Sriracha', cursive;
+}
+
+.hoi{
+	margin:30px;}
+	
+.hi {
+	text-align:center;
+	color: blue;
+	font-size:24px;
+	font-family: 'Sriracha', fat;
+	width: 800px;
+	border: dotted 15px #FFC;
+	padding: 150px;
+	margin: 50px;
+}
+
