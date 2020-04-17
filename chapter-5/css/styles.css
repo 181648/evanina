@@ -30,16 +30,29 @@ padding:0;
 }
 
 .hoi{
-	margin:30px;}
+	margin:30px;
+text-align: center;
+}
 	
 .hi {
 	text-align:center;
 	color: blue;
 	font-size:24px;
 	font-family: 'Sriracha', fat;
-	width: 800px;
+	
+	
+	margin: 40px;
+	
+}
+
+.containercontent{
 	border: dotted 15px #FFC;
-	padding: 150px;
-	margin: 50px;
+	
+	
+}
+
+.btn-success{
+	align-items: center;
+	
 }
 
