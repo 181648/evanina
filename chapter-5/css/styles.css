@@ -19,6 +19,10 @@ padding:0;
 .background-image{
 	background-image:url(../images/500_F_194386232_xOxTPhQabAtDLVSBS2oeK94ty2Rd9Lpx.jpg);
 }
+
+.background-image2{
+	background-image:url("../images/unnamed.jpg");
+}
 	
 	
 .banner{
@@ -53,6 +57,20 @@ text-align: center;
 
 .btn-success{
 	align-items: center;
+	color:pink;
+	background-color:#FFC;
+
+	}
+a.btn-success:hover{
+		align-items: center;
+	color:pink;
+	background-color:#FFC;
 	
+}
+
+.text-title{
+	text-align:center ;
+color:blue;
+	font-family: 'Sriracha', fat;
 }
 
